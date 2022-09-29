@@ -10,7 +10,7 @@ from playsound import playsound
 # It is a text value that we want to convert to audio
 
 
-text_val = '0'
+text_val = 'minus'
 
 # Here are converting in English Language
 language = 'en'
@@ -23,7 +23,7 @@ obj = gTTS(text=text_val, lang=language, slow=False)
 
 # Here we are saving the transformed audio in a mp3 file named
 # exam.mp3
-obj.save("zero.mp3")
+obj.save("minus.mp3")
 
 # Play the exam.mp3 file
 # playsound("two.mp3")
