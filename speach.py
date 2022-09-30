@@ -26,4 +26,4 @@ obj = gTTS(text=text_val, lang=language, slow=False)
 obj.save("minus.mp3")
 
 # Play the exam.mp3 file
-# playsound("two.mp3")
+playsound("two.mp3")
