@@ -6,4 +6,7 @@ This is the beginning of the service and I can add more control buttons.
 For the application to work, we will use the text with Lorem Ipsum.
 
 
+Its all. Thanks.
+
+
 [1 - 2] days.
