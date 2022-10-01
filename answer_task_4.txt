@@ -1,10 +1,12 @@
 Hello. Let me introduce a project to transform text into sound.
 The project is written in django and can read English text.
 I am using the gTTS library and English.
+
+
+Now I am running the aplication.
+
+For the application to work, I will use the text from Lorem Ipsum.
 This is the beginning of the service and I can add more control buttons.
-
-For the application to work, I will use the text with Lorem Ipsum.
-
 
 Its all. Thanks.
 
