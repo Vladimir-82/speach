@@ -1,7 +1,9 @@
 Для распрацоўкі  парталу, такі як  https://corpus.by/LanguageIdentifier/?lang=be
 я выкарыстаў фрэймворк django.
 https://language-uladzimir.herokuapp.com/
-Гэта сырая версія, але яна працуе. Падтрымлтвае 6 моў (з магчымасцю пашырэння).
+
+код - https://github.com/Vladimir-82/LanguageIdentifier
+Гэта сырая версія, але яна працуе. Падтрымлітвае 6 моў (з магчымасцю пашырэння).
 Вызначае асноўную мову тэкста.
 Працуе з выкарыстаннем біьліятэкі https://softhints.com/python-3-language-detection/
 Нажаль не знайшоў бібліятэкі, якая падтрымлівае беларускую мову.
