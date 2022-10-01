@@ -23,7 +23,7 @@ obj = gTTS(text=text_val, lang=language, slow=False)
 
 # Here we are saving the transformed audio in a mp3 file named
 # exam.mp3
-obj.save("minus.mp3")
+obj.save("minuss.mp3")
 
 # Play the exam.mp3 file
-playsound("two.mp3")
+# playsound("sounds/minus.mp3")
