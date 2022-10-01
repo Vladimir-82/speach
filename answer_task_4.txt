@@ -8,6 +8,7 @@ Now I am running the aplication.
 For the application to work, I will use the text from Lorem Ipsum.
 This is the beginning of the service and I can add more control buttons.
 
+code: https://github.com/Vladimir-82/synthesizer
 Its all. Thanks.
 
 
