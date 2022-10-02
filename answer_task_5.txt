@@ -1,6 +1,6 @@
 Now I will tell you about task number 5.
 To do this, I used coqui. I Installed the TTS library.
-The difficulty was that I had never done such work before.
+Defititly it was difficalteis.I had never done such work before.
 But I completed the project.
 
 I Imported random model.
