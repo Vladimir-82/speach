@@ -3,6 +3,8 @@ To do this, I used coqui. I Installed the TTS library.
 Defititly it was difficalteis.I had never done such work before.
 But I completed the project.
 
+I used interface from previous project.
+
 I Imported random model.
 Also I imported ModelManager and Synthesizer.
 I used IPython to create the audio object.
