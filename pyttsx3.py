@@ -1,2 +1,7 @@
 import pyttsx3
-pyttsx3.speak("I will speak this text")
+
+
+engine = pyttsx3.init()
+engine.say('Sally sells seashells by the seashore.')
+engine.say('The quick brown fox jumped over the lazy dog.')
+engine.runAndWait()
