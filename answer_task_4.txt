@@ -1,12 +1,8 @@
-Hello. Let me introduce a project to transform text into sound.
-The project is written in django and can read English text.
+Hello!
+The project written in django and can read English text.
 I am using the gTTS library and English.
-
-
-Now I am running the aplication.
-
-For the application to work, I will use the text from Lorem Ipsum.
-This is the beginning of the service and I can add more control buttons.
+This is the beginning of the service and I can improve the code and
+add more control buttons.
 
 code: https://github.com/Vladimir-82/synthesizer
 Its all. Thanks.

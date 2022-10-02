@@ -1,23 +1,10 @@
-Now I will tell you about task number 5.
-To do this, I used coqui. I Installed the TTS library.
-Defititly it was difficalteis.I had never done such work before.
-But I completed the project.
-
-I used random model.
-Also I imported ModelManager and Synthesizer.
+Hello!
+I used TTS coqui Text-to-Speech.
+I imported ModelManager and Synthesizer.
 I used IPython to create the audio object.
 And than I Saved an audio file from an object.
-
-I created the path.
 Listening to the file through vlc player.
-
-Now I will run the aplication.
-
 I used interface from previous project.
-
-For the application to work, I will use the text from Lorem Ipsum.
-
-
 This is the beginning of the service and I can improve the code and
 add more control buttons.
 
